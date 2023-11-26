@@ -4,7 +4,8 @@ body{
 	font-style: 15px;
 	padding: 0;
 	margin: 0;
-	backgraund: cover;
+	background-size: contain;
+	background: cover;
 }
 div,p,input,button,form,span,a,ul,li{
 	box-sizing: border-box;
